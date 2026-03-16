@@ -18,6 +18,7 @@ This repository is a starting-point template for [NSB/AppStudio](https://www.nsb
 
 1. A [GitHub account](https://github.com/)
 2. [Github Desktop](https://desktop.github.com/download/) needs to be installed.
+3. To use CoPilot, you need a [CoPilot subscription](https://github.com/features/copilot/plans). The Pro plan is much more powerful than the free plan.
 
 ### Getting Started
 
@@ -35,4 +36,7 @@ This repository is a starting-point template for [NSB/AppStudio](https://www.nsb
 1. Go to your project's folder. It should end in .AppStudio
 2. Copy that folder into the cloned template folder
 3. Open the project as usual.
+
+### Try CoPilot
+
 

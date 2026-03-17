@@ -556,13 +556,3 @@ The `file` array is a path relative to the `.appstudio` root directory — one e
 | `_bs5` | `"Button1.onclick()"` | `Button1.onclick = function() { ... };` |
 | `_bs4` | `"Button1_onclick()"` | `function Button1_onclick() { ... }` |
 | `_jqm` | `"Button1_onclick()"` | `function Button1_onclick() { ... }` |
-
-### Checklist for a New Sample
-
-1. Create `<Name>.appstudio/` directory under the correct `samples/` category folder
-2. Create `.gitignore` (`.DS_Store` + `/cache`)
-3. Create `<Name>.project` with `version: 8`, correct `id`, `title`, `description`, `language`, and `firstform`
-4. Create `forms/Form1/Form1.json` with `children` referencing each element file
-5. Create `forms/Form1/Elements/<ControlId>.json` for every control
-6. Create `forms/Form1/Form1.js` (or `.bas`) with event handlers
-7. Create `properties/manifest.json` using **single** curly braces and `{title}` / `{description}` / `{icon}` placeholders

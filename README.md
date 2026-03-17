@@ -49,8 +49,9 @@ If that does not work automatically,
 
 ### Try CoPilot
 
-In your repo's home page, click on the CoPilot icon at the top of the screen.
-Enter the following into the prompt box:
+1. In your repo's home page, click on the CoPilot icon at the top of the screen.
+2. Make sure the repo name is set to the name of your new repo, not `All repositories`.
+3. Enter the following into the `Ask anything` prompt box:
 ```
 Make a branch with the following changes:
 Add Bootstrap 5 button named Button1, labeled "Click Me" to Form1.

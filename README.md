@@ -43,7 +43,7 @@ If that does not work automatically,
 
 #### To use an existing project
 
-1. Go to your project's folder. It should end in .AppStudio
+1. Go to your project's folder. It should end in .appStudio
 2. Copy that folder into the cloned template folder
 3. Open the project as usual.
 

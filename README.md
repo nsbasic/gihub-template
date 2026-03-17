@@ -54,7 +54,7 @@ If that does not work automatically,
 3. Enter the following into the `Ask anything` prompt box:
 ```
 Make a branch with the following changes:
-Add Bootstrap 5 button named Button1, labeled "Click Me" to Form1.
+Modify Form1 by adding a Bootstrap 5 button named Button1, labeled "Click Me".
 When clicked, it should display a message box with "Hello World".
 ```
 Problem

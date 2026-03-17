@@ -76,13 +76,9 @@ The IDE supports deploying to:
 
 ---
 
-## Creating AppStudio Projects
+## Creating NSB/AppStudio Projects
 
 This section contains everything needed to generate a new AppStudio project without accessing the repository.
-
-### Where to Place a New Sample
-
-Samples live under `samples/JavaScript/` or `samples/BASIC/`
 
 ### Directory Structure
 

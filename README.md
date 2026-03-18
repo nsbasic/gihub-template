@@ -1,5 +1,5 @@
 # github-template
-A template for NSB/AppStudio projects, ready to use with CoPilot
+A template for NSB/AppStudio projects, ready to use with Copilot
 
 Once you have made a project of your own, in your own repo, using this template, replace the above with a descripion of your project. You may also want to change the LICENSE. 
 
@@ -22,7 +22,7 @@ This repository is a starting-point template for [NSB/AppStudio](https://www.nsb
 
 1. A [GitHub account](https://github.com/)
 2. [Github Desktop](https://desktop.github.com/download/) needs to be installed.
-3. To use CoPilot, you need a [CoPilot subscription](https://github.com/features/copilot/plans). The Pro plan is much more powerful than the free plan.
+3. To use Copilot, you need a [Copilot subscription](https://github.com/features/copilot/plans). The Pro plan is much more powerful than the free plan.
 
 ### Getting Started
 
@@ -49,7 +49,7 @@ This repository is a starting-point template for [NSB/AppStudio](https://www.nsb
 6. Publish repository
 7. Go to GitHub website. Your project should be there.
 
-### Try CoPilot
+### Try Copilot
 
 1. In your repo's home page, click on the **Agents** tab.
 2. Paste the following into the `Describe a coding task to work on` prompt box, then click on the **Start task** button
@@ -62,5 +62,5 @@ When complete, merge the changes into your project.
 
 **Important**
 
-When using CoPilot to modify your code, make sure your project is not open in AppStudio.
+When using Copilot to modify your code, make sure your project is not open in AppStudio.
 Your changes could be overwritten.

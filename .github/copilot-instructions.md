@@ -6,5 +6,5 @@ NSB/AppStudio is a cross-platform desktop IDE application for building mobile an
 
 ## Copilot Instructions
 
-Use .github/copilot-instructions from the nsbasic/Documentation repository
-https://github.com/nsbasic/Documentation/blob/main/.github/copilot-instructions.md
+Use .github/copilot-instructions from the nsbasic/documentation repository
+https://github.com/nsbasic/documentation/blob/main/.github/copilot-instructions.md
